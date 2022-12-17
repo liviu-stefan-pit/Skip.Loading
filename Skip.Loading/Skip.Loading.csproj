@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <PackageId>Skip.Loading</PackageId>
+	  <Authors>P. Liviu-Stefan</Authors>
+	  <Description>Skip the development time using our solutions</Description>
+	  <PackageTags>skip loading</PackageTags>
+	  <PackageProjectUrl></PackageProjectUrl>
+	  <RepositoryUrl></RepositoryUrl>
+	  <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+</Project>
